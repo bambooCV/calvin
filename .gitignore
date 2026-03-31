@@ -144,3 +144,6 @@ calvin_venv/*
 
 # Ignore datasets as downloaded according to instructions
 dataset/*
+
+# 测试结果不上传
+finetune_data/*
